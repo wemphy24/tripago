@@ -1,0 +1,22 @@
+{
+  "trips": [
+    {
+      "title": "2 Night Paradise",
+      "price": "$99",
+      "id": 1,
+      "loc": "Europe"
+    },
+    {
+      "title": "3 Night Jungle",
+      "price": "$199",
+      "id": 2,
+      "loc": "Europe"
+    },
+    {
+      "title": "4 Night Beach",
+      "price": "$299",
+      "id": 3,
+      "loc": "America"
+    }
+  ]
+}
